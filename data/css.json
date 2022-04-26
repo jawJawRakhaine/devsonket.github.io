@@ -31,7 +31,7 @@
             "code": "* {property: value;}"
           },
           {
-            "definition": "সকল আইডি সিলেক্ট করতে",
+            "definition": "আইডি সিলেক্ট করতে",
             "code": "#id {property: value;}"
           },
           {
